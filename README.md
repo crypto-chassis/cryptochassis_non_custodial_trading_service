@@ -32,7 +32,7 @@ This summary brochure is designed to provide customers with key information in a
 ## Performance
 * The following plot provides some indication of the returns and risks of the emerging digital asset trading service. The plot illustrates how the trading strategy's performance has varied from day to day since its inception. Its past performance is not necessarily an indication of future performance. It also shows how the strategy's cumulative returns for the periods indicated compare to those of a portfolio with Bitcoin alone.
 
-![Reference Historical Performance](https://marketdata-e0323a9039add2978bf5b49550572c7c-public.s3.amazonaws.com/emerging_asset_historical_performance.png)
+<img src="https://marketdata-e0323a9039add2978bf5b49550572c7c-public.s3.amazonaws.com/emerging_asset_historical_performance.png" alt="Reference Historical Performance"/></br>
 * There are multiple reasons that a customer account's actual performance is different from what is shown here.
   * The exchange of the customer's choice may not have all of the digital assets that our strategy has identified as emerging assets.
   * The customer's account balance may be too low to have allocations for all of the digital assets that our strategy has identified as emerging assets.
