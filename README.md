@@ -19,7 +19,8 @@ This summary brochure is designed to provide customers with key information in a
 * The objective of the trading service is to provide customers with a hands-off approach on trading and owning a diversified portfolio of emerging digital assets. It focuses on screening and selecting digital assets that are on a trajectory of healthy growth and possess steady positive momentum. At the same time, it also allocates a certain portion of the portfolio to several well-established digital assets (e.g. Bitcoin) to mitigate the associated risks.
 
 ## Fees and Expenses
-* Currently we waive all fees and expenses because the operating cost of running this strategy for one customer is negligibly small.
+* Individuals: Free of charge.
+* Institutions: Net annual expense ratio of 0.02%.
 
 ## Principal Strategy
 * The strategy seeks its objective by purchasing and selling spot instruments on the exchange(s) of the customer's choice to establish exposures in healthy-emerging as well as well-established digital assets. It has significant exposure to emerging and frontier digital assets that are on a trajectory of healthy growth and possess steady positive momentum.
