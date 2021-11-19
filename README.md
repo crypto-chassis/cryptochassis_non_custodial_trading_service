@@ -20,7 +20,7 @@ This summary brochure is designed to provide customers with key information in a
 
 ## Fees and Expenses
 * Individuals: Free of charge.
-* Institutions: Net annual expense ratio of 0.02%.
+* Institutions: Net annual expense ratio of 0.1%.
 
 ## Principal Strategy
 * The strategy seeks its objective by purchasing and selling spot instruments on the exchange(s) of the customer's choice to establish exposures in healthy-emerging as well as well-established digital assets. It has significant exposure to emerging and frontier digital assets that are on a trajectory of healthy growth and possess steady positive momentum.
@@ -44,7 +44,7 @@ This summary brochure is designed to provide customers with key information in a
 ## Management
 * The trading service is completely non-custodial. A typical service lifecycle is described as follows.
   * The customer (a.k.a. you) chooses any exchange and creates an account there.
-  * The customer creates a pair of API key and API secret and securely shares them with us via any password manager service of your choice (e.g. [LastPass](https://www.lastpass.com/)) or [GPG](https://gpgtools.org/).
+  * The customer creates a pair of trade-only API key and API secret and securely shares them with us via any password manager service of your choice (e.g. [LastPass](https://www.lastpass.com/)) or [GPG](https://gpgtools.org/).
   * The customer chooses a desired quote asset (e.g. USD) and chooses a desired rebalance check frequency anywhere between once-every-day to once-every-31-days (which may be changed later on at any time). The trading service will launch an application program for the customer accordingly. The program will periodically check the customer account's asset compositions. Upon checking, it may choose to perform necessary rebalance actions if various conditions are met. It may also choose to defer certain rebalance actions in order to reduce unnecessary transaction costs.
   * The customer can perform any deposits and withdrawals at any time. Our algorithm automatically adjusts accordingly.
   * The customer may choose to stop the service at any time by giving us a courtesy notification. More importantly, the customer is always in full control of the account and may choose to terminate the service forcibly by deactivating/disabling/deleting the associated API key on the exchange at any time.
