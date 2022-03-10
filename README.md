@@ -20,7 +20,7 @@ This summary brochure is designed to provide customers with key information in a
 
 ## Fees and Expenses
 * Individuals: Free of charge.
-* Institutions: Net annual expense ratio of 0.1%.
+* Institutions: Flat rate service fee.
 
 ## Principal Strategy
 * The strategy seeks its objective by purchasing and selling spot instruments on the exchange(s) of the customer's choice to establish exposures in healthy-emerging as well as well-established digital assets. It has significant exposure to emerging and frontier digital assets that are on a trajectory of healthy growth and possess steady positive momentum.
